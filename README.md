@@ -13,8 +13,6 @@ I enjoy turning complex problems into simple, efficient, and impactful solutions
 I’m always open to collaborating on exciting projects and innovative ideas. Let’s build something amazing!
 </p>
 
----
-
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRpYW0xcWlmcmVyNzR1cDBzN3owcWJ6bjh1ajd4OHhob2F2MGV6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
 
 
@@ -36,10 +34,6 @@ I’m always open to collaborating on exciting projects and innovative ideas. Le
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:neerajsinghrenukoot73@gmail.com">
