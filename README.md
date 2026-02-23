@@ -7,8 +7,8 @@ I enjoy turning complex problems into simple, efficient, and impactful solutions
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-five-snowy-25.vercel.app/api?username=Neeraj0212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150px" alt="stats graph"  />
-  <img src="https://github-readme-stats-five-snowy-25.vercel.app/api/top-langs?username=Neeraj0212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150px" alt="languages graph"  />
+  <img src="https://github-readme-stats-five-snowy-25.vercel.app/api?username=Neeraj0212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-five-snowy-25.vercel.app/api/top-langs?username=Neeraj0212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
@@ -24,6 +24,7 @@ I enjoy turning complex problems into simple, efficient, and impactful solutions
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
