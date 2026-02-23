@@ -44,7 +44,7 @@ I enjoy turning complex problems into simple, efficient, and impactful solutions
 
 ###
 
-![snake gif](https://github.com/Neeraj0212/Neeraj0212/blob/output/github-snake.gif)
+![snake gif](https://github.com/Neeraj0212/Neeraj0212/blob/output/github-snake.svg)
 
 ###
 
